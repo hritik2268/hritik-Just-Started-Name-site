@@ -1,4 +1,4 @@
-"PROJECT DETAILS"
+# Hritik's Portfolio
 
-hi, hritik this side
+hi, hritik this side,
 I am Blockchain developer
